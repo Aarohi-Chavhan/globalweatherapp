@@ -1,6 +1,6 @@
-# globalweatherapp
+# GLOBAL WEATHER APP
 
-GLOBAL WEATHER APP
+
 
 This is a backend service which makes a call to exisitng application exposing SOAP API to
 1. Get cities for a country
